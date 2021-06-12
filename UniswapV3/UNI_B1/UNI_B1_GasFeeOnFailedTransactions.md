@@ -1,9 +1,5 @@
 ### Brainstorming:
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
 
 
 ### [Query](https://github.com/rationalai/Bounties/blob/main/UniswapV3/UNI_B1/sql_script.sql):
