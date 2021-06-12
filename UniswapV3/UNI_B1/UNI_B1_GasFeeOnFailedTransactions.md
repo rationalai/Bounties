@@ -6,10 +6,10 @@
 <!-- blank line -->
 
 
-### Query:
+### Query(https://github.com/rationalai/Bounties/blob/main/UniswapV3/UNI_B1/sql_script.sql):
 
 
-### Data Preprocessing:
+### Data Preprocessing(https://github.com/rationalai/Bounties/blob/main/UniswapV3/UNI_B1/dataProcessing.py):
 
 
 ### [Data Extracted (result.csv)](https://github.com/rationalai/Bounties/blob/main/UniswapV3/UNI_B1/result.csv):
