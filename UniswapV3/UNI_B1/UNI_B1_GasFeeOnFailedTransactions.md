@@ -1,5 +1,5 @@
 ### Brainstorming:
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
+[![Blinking LEDs](http://img.youtube.com/vi/XAMVzS13HY0/0.jpg)](http://www.youtube.com/watch?v=XAMVzS13HY0 "Blinking LEDs")
 
 
 ### [Query](https://github.com/rationalai/Bounties/blob/main/UniswapV3/UNI_B1/sql_script.sql):
