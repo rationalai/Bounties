@@ -1,16 +1,16 @@
 # Brainstorming:
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
-# Query:
+[![Blinking LEDs](http://img.youtube.com/vi/XAMVzS13HY0/0.jpg)](http://www.youtube.com/watch?v=XAMVzS13HY0 "Blinking LEDs")
 
 
-# Data Preprocessing:
+### [Query](https://github.com/rationalai/Bounties/blob/main/alchemix/ALCX_B1/sql_script.sql):
 
 
-# Data Extracted (result.csv):
+### [Data Preprocessing](https://github.com/rationalai/Bounties/blob/main/alchemix/ALCX_B1/dataProcessing.ipynb):
 
 
-# Storyboard:
+### [Data Extracted (result.csv)](https://github.com/rationalai/Bounties/blob/main/alchemix/ALCX_B1/result.csv):
+
+### Storyboard
+
+
+![Storyboard](https://github.com/rationalai/Bounties/blob/main/alchemix/ALCX_B1/ALCX_B1_Storyboard.png "Storyboard")
